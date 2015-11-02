@@ -1,4 +1,4 @@
-# Hogwarts Adventure
+# _Hogwarts Adventure_
 Made by [Christian](https://github.com/christianf9156) and [Jessica](https://github.com/jessicaw9494) 
 
 ---
