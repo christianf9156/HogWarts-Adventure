@@ -6,8 +6,4 @@ Made by [Christian](https://github.com/christianf9156) and [Jessica](https://git
 ##[accept](accept.md)  
 ###or   
 ##[reject](reject.md)
-=======
-
-# Hogwarts Adventure
----
 
