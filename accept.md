@@ -1,3 +1,3 @@
 # A flying car appears outside your window & takes you to HogWart.
 ---  
-##Next 
+##[Next](..animal.md) 
