@@ -3,7 +3,7 @@ Made by [Christian](https://github.com/christianf9156) and [Jessica](https://git
 
 ---
 ## Congratulations! You just received a letter from Hogwarts! Will you:
-##[accept](accept.md)  
+##[accept](..accept.md)  
 ###or   
-##[reject](reject.md)
+##[reject](..reject.md)
 
