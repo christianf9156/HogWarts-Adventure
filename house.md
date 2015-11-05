@@ -1,4 +1,4 @@
-##Before you are offically announced as a Hogwarts student, you must be placed into the right household. To do so, how would you describe yourself?
+##Before you are offically deemed as a Hogwarts student, you must be placed into the right house. To do so, how would you describe yourself?
 ---  
 ##1) [Competitive](slytherin.md)  
 ##2) [Smart](ravenclaw.md)  
