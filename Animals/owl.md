@@ -2,5 +2,5 @@
 photo credit to: geograph.org.uk
 #Great choice! Owls can fly thus making mail deliveries faster!
 ---
-##[Let's move on to houses!!!](Houses/house.md)
+##[Let's move on to houses!!!](../Houses/house.md)
 ##[Actually, I don't want an owl.](animal.md)
