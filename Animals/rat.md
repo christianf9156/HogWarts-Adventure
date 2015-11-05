@@ -2,5 +2,5 @@
 Photo credit to: onet.pl
 #Great choice! Rats are great for crawling into small places and being sneaky!
 ---
-##[Let's move on to houses!!!](Houses/house.md)
+##[Let's move on to houses!!!](house.md)
 ##[Actually, I don't want a rat.](animal.md)
