@@ -7,5 +7,9 @@ photo by flickr
 ## Congratulations! You just received a letter from Hogwarts! Will you:
 ##[accept](accept.md)  
 ###or   
-##[reject](reject.md)
+##[reject](reject.md)  
+---  
+The purpose of this project is to examine how much we have learn and to measure how much we have grown as software engineers.  
+##[Google Drawing](https://docs.google.com/drawings/d/1883BeW6YrKip9279ufexHnYl2KP0zSyOkibr_RyocW4/edit)
+
 
